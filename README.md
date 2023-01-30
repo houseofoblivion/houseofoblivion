@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @houseofoblivion
 - 👀 I’m interested in RPG and videogame art and programming
-- 🌱 I’m currently learning Python; Digital Art (scenery); Pixel Art (general)
+- 🌱 I’m currently learning C#; Digital Art (scenery + props); Pixel Art (general)
 - 💞️ I’m looking to collaborate on videogame and RPG tools' projects 
 - 📫 How to reach me: https://houseofoblivion.artstation.com/ (porfolio)
 
